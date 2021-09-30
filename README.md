@@ -9,7 +9,9 @@ There is also a time and date at the top of the page, which refreshes every seco
 https://jasonluxie.github.io/3-1-hw-work-day-scheduler/
 
 ## Application Demonstration
+Full application with saved event values. Each button saves the content of it's adjacent text input.
 
+<kbd>![Whole Application for Event Scheduler](./assets/images/1-full-application.png)</kbd>
 ## Notes
 Built with:
 * Modal.js

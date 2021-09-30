@@ -23,6 +23,7 @@ let saveButton15 = $(".saveBtn15");
 let saveButton16 = $(".saveBtn16");
 let saveButton17 = $(".saveBtn17");
 
+//Issue with event delegation: delegation occurs on textarea selection as well. Also, how to connect event delegation for entire box with closest textarea? 
 // blockHolder.on("click", function saveLocal(e) {
 //     let button = $(e.target)
 //     console.log(button.closest('textarea').val())
