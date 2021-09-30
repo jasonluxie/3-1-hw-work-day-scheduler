@@ -12,6 +12,7 @@ https://jasonluxie.github.io/3-1-hw-work-day-scheduler/
 Full application with saved event values. Each button saves the content of it's adjacent text input.
 
 <kbd>![Whole Application for Event Scheduler](./assets/images/1-full-application.png)</kbd>
+
 ## Notes
 Built with:
 * Modal.js
